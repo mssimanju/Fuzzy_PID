@@ -1,4 +1,4 @@
-Please enter 'pid=readfis('pid9.fis')' in the command window to load the fuzzy configration into the simulink.
+Please enter 'pid=readfis('pid9.fis')' in the command window to load the fuzzy configuration into Simulink.
 
 The peformance is as follows, in which the blue line represents the fuzzy PID and the red line represents the ordinary PID.
 
