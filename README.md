@@ -1,3 +1,10 @@
+A PID controller tuned by fuzzy logic component to improve its performance.
+
+
+![image](https://github.com/user-attachments/assets/50f741cf-e2b6-4735-a25b-fb5ef0bb8913)
+
+
+
 Please enter 'pid=readfis('pid9.fis')' in the command window to load the fuzzy configuration into Simulink.
 
 The peformance is as follows, in which the blue line represents the fuzzy PID and the red line represents the ordinary PID.
